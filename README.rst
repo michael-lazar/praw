@@ -22,6 +22,7 @@ This repository was forked on March 6, 2017 from PRAW v3.6.1. Since then, the fo
 - Upped the ``requests`` version requirement to v2.4.0 (`link <https://github.com/praw-dev/praw/issues/737>`_)
 - Fix for new user profiles ``TypeError: subreddit_name must be a non-empty string`` (`link <https://github.com/michael-lazar/rtv/issues/375>`_)
 - Patch to remove the ``permalink`` field from the Comment JSON object (`link <https://github.com/michael-lazar/praw3/pull/3>`_)
+- Fixed several Multireddit functions when using OAuth (`link <https://github.com/michael-lazar/praw3/pull/4>`_)
 
 Installation
 ------------
