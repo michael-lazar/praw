@@ -8,11 +8,9 @@ PRAW: The Python Reddit API Wrapper
 .. |coveralls| image:: https://coveralls.io/repos/github/michael-lazar/praw3/badge.svg?branch=master
   :target: (https://coveralls.io/github/michael-lazar/praw3?branch=master
 
-This repository contains a fork of the `PRAW <https://github.com/praw-dev/praw>`_ library, with intent of providing continued bug fixes and security updates for the (deprecated, but stable) PRAW version 3 branch. If you're looking for information about the official PRAW library, please visit their `documentation <http://praw.readthedocs.io/en/latest/>`_.
+This repository contains a fork of the `PRAW <https://github.com/praw-dev/praw>`_ library, with intent of providing continued bug fixes and security updates for the (deprecated, but stable) PRAW version 3 branch. This fork was primarily created to support the `RTV <https://github.com/michael-lazar/rtv>`_ command line application.
 
-This fork was primarily created to support the `RTV <https://github.com/michael-lazar/rtv>`_ command line application.
-
-This project is not intended to compete against the official PRAW library in any way. Anyone who is capable of doing so to should be using the latest official version of PRAW.
+This project is not intended to compete against the official PRAW library in any way. Anyone who is capable of doing so to should be using the latest official version of PRAW. Their documenation is hosted `here <http://praw.readthedocs.io/en/latest/>`_.
 
 Changes
 -------
