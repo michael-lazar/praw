@@ -8,9 +8,7 @@ PRAW: The Python Reddit API Wrapper
 .. |coveralls| image:: https://coveralls.io/repos/github/michael-lazar/praw3/badge.svg?branch=master
   :target: (https://coveralls.io/github/michael-lazar/praw3?branch=master
 
-This repository contains a fork of the `PRAW <https://github.com/praw-dev/praw>`_ library, with intent of continuing support for the (deprecated) version 3 branch. If you are looking for information about the official PRAW library, please visit their `documentation <http://praw.readthedocs.io/en/latest/>`_. This fork was created to support the `RTV <https://github.com/michael-lazar/rtv>`_ reddit command line application. RTV relies heavily on the structure of the legacy PRAW API and would require a major overhaul to support the new version. The maintainer of PRAW has expressed that he does not intend to provide any support for older versions going forward. It is important to note that the Reddit API itself has not released any breaking changes. Both versions of PRAW can interact with the core Reddit functions, although the newer version contains support for some of the more cutting-edge features such as live threads.
-
-The goal of this repository is to provide security updates and bug fixes to the stable PRAW 3 branch. This is not intended to compete against the official PRAW library in any way. Anyone who is capable of doing so to should be using the latest official version of PRAW.
+This repository contains a fork of the `PRAW <https://github.com/praw-dev/praw>`_ library, with intent of continuing support for the (deprecated) version 3 branch. If you are looking for information about the official PRAW library, please visit their `documentation <http://praw.readthedocs.io/en/latest/>`_. This fork was created to support the `RTV <https://github.com/michael-lazar/rtv>`_ command line application. The goal of this repository is to provide security updates and bug fixes to the stable PRAW 3 branch. This is not intended to compete against the official PRAW library in any way. Anyone who is capable of doing so to should be using the latest official version of PRAW.
 
 Changes
 -------
