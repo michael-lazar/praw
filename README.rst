@@ -24,6 +24,7 @@ This repository was forked on March 6, 2017 from PRAW v3.6.1. Since then, the fo
 - Patch to remove the ``permalink`` field from the Comment JSON object (`link <https://github.com/michael-lazar/praw3/pull/3>`_)
 - Fixed several Multireddit functions when using OAuth (`link <https://github.com/michael-lazar/praw3/pull/4>`_)
 - Fixed a ``KeyError: 'ratelimit'`` error that was occuring because Reddit changed the format of its JSON response (`link <https://github.com/michael-lazar/rtv/issues/499>`_)
+- Added the ability to search subreddits for gilded posts and comments (`link <https://github.com/michael-lazar/praw3/pull/6>`_)
 
 Installation
 ------------
